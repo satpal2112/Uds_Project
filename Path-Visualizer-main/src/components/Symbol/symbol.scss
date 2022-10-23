@@ -1,0 +1,43 @@
+/** @format */
+
+.icon {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  position: static;
+  top: 0.35em;
+  margin: 0 0.42em;
+}
+
+ul {
+  margin-bottom: 15px;
+
+  li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 28px 0 0;
+  }
+}
+
+.symbol-container {
+  width: 100%;
+  text-align: center;
+}
+
+.src-node {
+  width: 25px;
+  height: 25px;
+  background-color: #74ff6a;
+}
+
+.vis-node {
+  width: 25px;
+  height: 25px;
+  background-color: #0095dabf;
+}
+
+.wall-symbol {
+  background-color: rgb(12, 53, 71);
+  width: 25px;
+  height: 25px;
+}
